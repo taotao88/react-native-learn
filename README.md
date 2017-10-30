@@ -2,6 +2,8 @@
 
 # Refer
 
+Try to do a demo following the following tutorial for fun:
+
 http://rationalappdev.com/react-native-list-app-complete-how-to-guide/
 
 # How to run the program on android (similar on ios)
